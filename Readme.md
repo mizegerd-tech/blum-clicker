@@ -1,8 +1,11 @@
 
 
-# 🌸 blum Clicker (Android & Windows Versions)
+# 🌸 Blum Clicker (Android & Windows Versions)
 
-**blum Clicker** is an advanced automation tool designed to enhance your experience with the **Blum Telegram Bot**. This tool supports both **Android** and **Windows** platforms, enabling automated interactions like clicking bombs, ice, and flowers in the game. Customizable settings allow you to fine-tune the bot for optimal gameplay.
+**Blum Clicker** is an advanced automation tool designed to enhance your experience with the **Blum Telegram Bot**. This tool supports both **Android** and **Windows** platforms, enabling automated interactions like clicking bombs, ice, and flowers in the game. Customizable settings allow you to fine-tune the bot for optimal gameplay.
+
+
+![banner](https://github.com/user-attachments/assets/19b2e792-e3e9-470d-b977-1e9bad6543ed)
 
 ---
 
